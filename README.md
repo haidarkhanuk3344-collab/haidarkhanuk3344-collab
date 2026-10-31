@@ -4,9 +4,9 @@
 <a href="https://haidarkhanuk3344-collab.github.io/"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/v4/links/portfolio-still.svg"><img src="assets/v4/links/portfolio.svg" width="280" alt="走进我的个人网站：项目、想法与我的复古房间"></picture></a>
 </p>
 
-你好，我是 **冯恒鑫 / Chess**，一名 **AI 产品经理**。关注用户需求、AI 能力与产品体验的连接，将复杂问题转化为清晰、可落地的产品方案。
+你好，我是 **冯恒鑫 / Chess**，一名 **AI 产品经理**，关注 **AI 创作工具、个人智能体与交互体验**。
 
-以 **场景研究、需求定义与产品设计** 为起点，结合 AI 能力评估、交互设计与体验迭代，推动技术能力转化为用户价值。
+我从具体使用场景出发，梳理需求、设计功能与交互流程，使用 AI 编程工具推进实现，并通过实际操作持续调整产品。
 
 [全部项目](https://github.com/haidarkhanuk3344-collab?tab=repositories) · [我的个人空间](https://haidarkhanuk3344-collab.github.io/)
 
@@ -17,12 +17,12 @@
 <td width="50%" valign="top">
 <a href="https://github.com/haidarkhanuk3344-collab/haixin-agent"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/v4/anode-still.svg"><img src="assets/v4/anode.svg" width="100%" alt="海辛 · 个人智能体"></picture></a>
 <h3><a href="https://github.com/haidarkhanuk3344-collab/haixin-agent">海辛 · 个人智能体</a></h3>
-<p>把聊天、记忆、资料阅读、日程和提醒接在同一条对话里。围绕个人背景持续跟进事项，让对话连接到具体的行动与成果。</p>
+<p>围绕个人背景管理聊天、记忆、资料与事项。支持资料阅读、日程提醒和事项跟进，让历史信息能够参与后续对话与任务处理。</p>
 <p><strong>OpenClaw · DeepSeek · Python · React</strong></p>
 </td><td width="50%" valign="top">
 <a href="https://github.com/haidarkhanuk3344-collab/contextflow"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/v4/inkbolt-still.svg"><img src="assets/v4/inkbolt.svg" width="100%" alt="镜流 · AI 创作画布"></picture></a>
 <h3><a href="https://github.com/haidarkhanuk3344-collab/contextflow">镜流 · AI 创作画布</a></h3>
-<p>让下一镜头，听懂「承接上一镜头」。在同一张画布里组织图像、视频与素材，通过指定前序结果传递文字和视觉上下文。</p>
+<p>面向图像与视频创作的节点画布，支持素材管理、结果版本选择和上下文承接。创作节点可读取指定前序结果的文字与视觉信息。</p>
 <p><strong>React · TypeScript · Node.js · FFmpeg</strong></p>
 </td>
 </tr>
@@ -30,12 +30,12 @@
 <td width="50%" valign="top">
 <a href="https://github.com/haidarkhanuk3344-collab/world-tree"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/v4/cutbolt-still.svg"><img src="assets/v4/cutbolt.svg" width="100%" alt="世界树 · 提示词库"></picture></a>
 <h3><a href="https://github.com/haidarkhanuk3344-collab/world-tree">世界树 · 提示词库</a></h3>
-<p>一条提示词，一枚果实。把收藏、查找、编辑与复制，放进一棵可以旋转探索的三维树。让积累也带一点探索感，提示词保存在本地浏览器中。</p>
+<p>以三维树与果实组织个人提示词，支持搜索、编辑、复制和删除撤销。可旋转视角查找内容，数据保存在本地浏览器中。</p>
 <p><strong>Three.js · WebGL · JavaScript · 本地存储</strong></p>
 </td><td width="50%" valign="top">
 <a href="https://github.com/haidarkhanuk3344-collab/brave-journey"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/v4/pixelbolt-still.svg"><img src="assets/v4/pixelbolt.svg" width="100%" alt="勇者旅途 · 2D 横版冒险"></picture></a>
 <h3><a href="https://github.com/haidarkhanuk3344-collab/brave-journey">勇者旅途 · 2D 横版冒险</a></h3>
-<p>围绕探索、战斗与成长展开的横版冒险。以战士、射手、法师三种职业，串起城镇、关卡、技能与装备系统，让每一次挑战都有新的选择。</p>
+<p>一款包含战士、射手和法师三种职业的 2D 横版冒险游戏。围绕城镇与关卡组织探索和战斗，包含技能、装备成长与本地存档。</p>
 <p><strong>JavaScript · Canvas 2D · HTML · CSS</strong></p>
 </td>
 </tr>
@@ -67,7 +67,7 @@
 
 ## 产品方法
 
-从用户场景与任务链路识别问题，围绕价值、AI 能力边界与体验成本做取舍。通过需求拆解、交互设计和迭代反馈，让产品方案具备清晰的落地路径。
+先明确用户要完成的任务，再界定 AI 与产品功能各自承担的环节。通过可运行的功能和实际操作检查方案，持续调整交互与使用流程。
 
 ### 技术与工具
 
