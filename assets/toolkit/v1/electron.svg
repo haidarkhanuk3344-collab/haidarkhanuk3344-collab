@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="132" height="40" viewBox="0 0 132 40" role="img" aria-label="Electron">
+<title>Electron</title>
+<defs><clipPath id="pill"><rect x="1" y="4" width="130" height="32" rx="10"/></clipPath></defs>
+<g clip-path="url(#pill)">
+<rect x="1" y="4" width="130" height="32" fill="#111721"/>
+<rect x="40" y="4" width="91" height="32" fill="#96c3ee" fill-opacity=".18"/>
+<path d="M40 5 V35" stroke="#96c3ee" stroke-opacity=".24"/>
+</g>
+<rect x="1" y="4" width="130" height="32" rx="10" fill="none" stroke="#96c3ee" stroke-opacity=".48"/>
+<g fill="none" stroke="#96c3ee" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M13 15c10-9 22 7 9 11s-13-15 1-13M12 24c-5-13 16-15 17-1"/></g>
+<text x="85" y="24" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="10.5" font-weight="700" letter-spacing=".75" fill="#f1f4fa">ELECTRON</text>
+</svg>
